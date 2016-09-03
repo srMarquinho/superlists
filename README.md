@@ -3,6 +3,6 @@
 #### [Obey the Testing Goat](http://www.obeythetestinggoat.com/)
 
 
-Python, Django, Unittest, Selenium
+Python3, Django, Unittest, Selenium
 
 in progress...
